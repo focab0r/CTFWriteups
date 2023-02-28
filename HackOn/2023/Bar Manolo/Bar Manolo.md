@@ -4,13 +4,13 @@
 - **Autor del Writeup:** [focab0r](https://github.com/focab0r)
 - **Flag:** `HackOn{Manolo\_3l\_tr4v13s0\_4tr4v3s4nd0\_d1r3ct0r10s}`
 
-## Descripcion ##
+### Descripcion ###
 
 Tras la ruptura amorosa de Manolo Borracho y Paquito er Bayleis. Manolo ha decidido abrir un bar enfrente del Shawarma de Paquito.
 
 Aun así, Manolo es muy travieso y le ha robado la flag a Paquito y y la ha escondido en la web de su bar.
 
-# WriteUp #
+## WriteUp ##
 Al entrar en la pagina Web, vemos un input en el cual, al introducir una palabra, nos redirige al endpoint /flag.php
 
 ![Accediendo a la Web](images/a.png)
@@ -19,7 +19,7 @@ Fijandonos en la URL, se aprecia que existe un parametro "file" el cual se puede
 
 ![Probando el LFI](images/b.png)
 
-## Explotacion del LFI ##
+### Explotacion del LFI ###
 
 Si accedemos al archivo flag.txt, nos devuelve un texto (`En este directorio no era :)`), con lo que se entiende que la flag se encuentra en otro directorio. Poniendo `../` delante de flag.txt, intentamos acceder a los directorios anteriores.
 ```
