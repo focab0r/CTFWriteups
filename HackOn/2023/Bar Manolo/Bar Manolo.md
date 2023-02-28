@@ -1,10 +1,10 @@
 # Bar Manolo #
 
-* Tipo: Web
-* Descripcion: Tras la ruptura amorosa de Manolo Borracho y Paquito er Bayleis. Manolo ha decidido abrir un bar enfrente del Shawarma de Paquito.
+- **Tipo:** Web
+- **Descripcion:** Tras la ruptura amorosa de Manolo Borracho y Paquito er Bayleis. Manolo ha decidido abrir un bar enfrente del Shawarma de Paquito.
 Aun así, Manolo es muy travieso y le ha robado la flag a Paquito y y la ha escondido en la web de su bar.
-* Creador del Writeup: focab0r 
-* Flag: HackOn{Manolo\_3l\_tr4v13s0\_4tr4v3s4nd0\_d1r3ct0r10s}
+- **Autor del Writeup:** focab0r 
+- **Flag:** `HackOn{Manolo\_3l\_tr4v13s0\_4tr4v3s4nd0\_d1r3ct0r10s}`
 
 ## Introduccion ##
 Al entrar en la pagina Web, vemos un input en el cual, al introducir una palabra, nos redirige al endpoint /flag.php
