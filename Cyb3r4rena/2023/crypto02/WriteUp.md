@@ -38,6 +38,6 @@ print ("cyphertext =",cypher_text)
 
 decrypt = (long_to_bytes(pow(cypher_text,d,n)))
 ```
-Como tenemos n,e y el texto cifrado podemos servirnos de ![https://www.dcode.fr/chiffre-rsa](dcodefr) para desencriptar el texto cifrado, consiguiendo la flag.
+Como tenemos n,e y el texto cifrado podemos servirnos de [https://www.dcode.fr/chiffre-rsa](dcodefr) para desencriptar el texto cifrado, consiguiendo la flag.
 
-[Flag conseguida](images/1.png)
+![Flag conseguida](images/1.png)
