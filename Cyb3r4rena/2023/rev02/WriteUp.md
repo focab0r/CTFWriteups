@@ -29,7 +29,7 @@ Tras varias pruebas determiné que el valor era de tipo binario por lo que en lo
 Tras este escaneo podemos ver que aparecen unos 18 millones de resultados. Debemos ir ahora comprando cosas en la tienda para encontrar el address correcto.
 Si compramos una piedra en la tienda que nos costara 2 monedas y buscamos por 13 ahora aparecen solamente 955 resultados.
 
-![Segundo Escaneo](images/4.png)
+![Segundo Escaneo](images/3.png)
 
 Si repetimos otra vez esta operación aparecerán solamente 5 resultados. 
 
