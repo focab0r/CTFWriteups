@@ -3,5 +3,5 @@
 - **Tipo:** Reversing 
 - **Autor:** Deloitte
 - **Autor del Writeup:** [dtorresss](https://github.com/dtorresss)
-- **Flag:** `flag{R4ns0mw4r3_R \-/|_|k}`
+- **Flag:** `flag{4LW4YS_3NCRYPT_F1RMW4RES}`
 
