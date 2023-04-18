@@ -31,7 +31,7 @@ Si compramos una piedra en la tienda que nos costara 2 monedas y buscamos por 13
 
 ![Segundo Escaneo](images/4.png)
 
-Si repetimos otra vez esta operación aparecerán solamente 5 resultados. 
+Si repetimos otra vez esta operación dos vece más aparecerán solamente 2 resultados. 
 
 ![Tercer Escaneo](images/5.png)
 
