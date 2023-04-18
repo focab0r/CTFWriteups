@@ -21,7 +21,7 @@ Sin embargo, los datos parecen codificados, ya que "Cyberchef" no es capaz de mo
 
 ### Decodificando la señal ###
 
-Uno de los protocolos de encriptacion mas utilizados en radio es el codigo de Manchester. Para decodear las señales en la pagina ![dcode.fr](https://www.dcode.fr/manchester-code), vamos copiando cada señal por separado, y descifrandola. Pasandola despues por Cyberchef (From Binary), dos de las señales contienen una flag falsa, mientras que las otras devuelven una cadena de texto. Decodificandolas en Base64, una de ellas es la flag.
+Uno de los protocolos de encriptacion mas utilizados en radio es el codigo de Manchester. Para decodear las señales en la pagina [dcode.fr](https://www.dcode.fr/manchester-code), vamos copiando cada señal por separado, y descifrandola. Pasandola despues por Cyberchef (From Binary), dos de las señales contienen una flag falsa, mientras que las otras devuelven una cadena de texto. Decodificandolas en Base64, una de ellas es la flag.
 
 ![Obteniendo la flag](images/c.png)
 
