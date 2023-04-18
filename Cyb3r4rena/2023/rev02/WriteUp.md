@@ -24,7 +24,7 @@ Como queremos modificar la cantidad de monedas que tenemos debemos encontrar el 
 Podemos empezar haciendo un escaneo con el valor exacto de 15, ya que son las que tenemos.
 Tras varias pruebas determiné que el valor era de tipo binario por lo que en los opciones se debe seleccionar esa opción.
 
-![Primer Escaneo](images/3.png)
+![Primer Escaneo](images/2.png)
 
 Tras este escaneo podemos ver que aparecen unos 18 millones de resultados. Debemos ir ahora comprando cosas en la tienda para encontrar el address correcto.
 Si compramos una piedra en la tienda que nos costara 2 monedas y buscamos por 13 ahora aparecen solamente 955 resultados.
