@@ -11,7 +11,7 @@ Tras descomprimir el zip del reto nos encontramos, con varios archivos. Uno de e
 
 ![Pantalla Inicial](images/1.png)
 
-Al empezar una partida, nos encontramos a un NPC que nos dará algo de dinero pero nos dice que si queremso derrotar al BOSS necesitaremos un mejor arma.
+Al empezar una partida, nos encontramos a un NPC que nos dará algo de dinero pero nos dice que si queremos derrotar al BOSS necesitaremos un mejor arma.
 Al entrar en la tienda podemos ver que hay tres pestañas. Comprar, vender y salir.
 Si entramos en el apartado de comprar podemos ver que hay varios objetos, pero solo podemos adquirir una pocion y una piedra ya que solamente tenemos 15 monedas.
 
