@@ -18,5 +18,5 @@ Porfavor quitarlo en el siguiente update
 
 Gracias! El CISO
 ```
-Esto es interesante ya que hay otra ruta llamada `challenge/`. Si hacemos un file al archivo keepass que hay en él vemos que se trata de un "Java archive data (JAR)". Entonces para ejecutarlo podemos hacer `java -jar keepass` y tendríamos la flag.
+Esto es interesante ya que hay otra ruta llamada `challenge/`. Si hacemos un file al archivo ```keepass``` que hay en ella vemos que se trata de un "Java archive data (JAR)". Entonces para ejecutarlo podemos hacer `java -jar keepass` y tendríamos la flag.
 
