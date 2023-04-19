@@ -9,7 +9,7 @@
 
 Al descomprimir el ZIP, nos encontramos ante tres archivos:
 - contract.sol: Este es el contrato de la blockchain. Leyendo, se ve claramente que la flag se obtiene al llamar a la funcion `getFlag()`
-- ABI\_and\_contract.txt: Contiene una direccion, la del contrato, y el ABI de la blockchain. Este es un codigo necesario para interactuar con el contrato.
+- ABI\_and\_contract.txt: Contiene una la direccion y el ABI del contrato. Este es un codigo necesario para interactuar con el contrato.
 - accounts.txt: Aqui hay una gran cantidad de direcciones privadas existentes en la blockchain. Necesitaremos una de ellas para firmar transacciones.
 
 Empezamos leyendo el contrato. Para que la funcion `getFlag()` nos devuelva la flag, comprueba antes que el rol del usuario que firma la transaccion es igual a "godRole", mediante la siguiente linea:
