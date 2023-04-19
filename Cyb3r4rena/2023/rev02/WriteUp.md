@@ -17,7 +17,7 @@ Si entramos en el apartado de comprar podemos ver que hay varios objetos, pero s
 
 ![Pantalla Comprar](images/2.png)
 
-Aparentemente intentemos lo que intentemos dentro del juego no se pueden aumentar las monedas para comprar la espada que queremos comprar.
+Aparentemente intentemos lo que intentemos dentro del juego no se pueden aumentar las monedas para comprar la espada.
 Entonces va a ser necesario modificar el valor mediante un programa externo. En mi caso he usado [CheatEngine](https://www.cheatengine.org) ya que es de los mas conocidos.
 A la hora de abrirlo necesitamos indicar el proceso que queremos monitorizar. Para ello hay que darle en la esquina superior izquierda al botón con el icono de la pantalla y elegir el juego.
 Como queremos modificar la cantidad de monedas que tenemos debemos encontrar el address donde se almacena para poder cambiar su valor.
