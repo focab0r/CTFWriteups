@@ -9,7 +9,7 @@
 
 Una breve visita por Internet nos permite saber que los archivos RAW contienen datos en bruto de otros programas, especialmente imagenes y audios. Como el reto se trata de "radio", utilizamos "Audacity" para abrir el archivo. Para ello, una vez en "Audacity", `Archivo > Importar > Datos en bruto...`
 
-El audio no parece contener nada extraño, mas que una serie de ruidos. Para analizarlo mas a fondo, exportamos el archivo en formato `.wav`, y lo abrimos con SonicVisualizer. Una vez alli, podemos utilizar la herramienta de analizado de Espectrograma, en `Layer > Add Spectogram`, obteniendo lo siguiente:
+El audio no parece contener nada extraño, mas que una serie de ruidos. Para analizarlo mas a fondo, exportamos el archivo en formato `.wav`, y lo abrimos con `Sonic Visualiser`. Una vez alli, podemos utilizar la herramienta de analizado de Espectrograma, en `Layer > Add Spectogram`, obteniendo lo siguiente:
 
 ![Espectograma del audio](images/a.png)
 
