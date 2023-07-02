@@ -13,6 +13,6 @@ fhvdu_uxohc
 
 ## WriteUp ##
 
-La descripcion da la pista, se trata del cifrado Cesar, o ROT13. Con [cyberchef](https://cyberchef.org), se puede utilizar la opcion `ROT13 Brute Force`, siendo el Amount 23 la flag.
+La descripcion da la pista, se trata del cifrado Cesar, o ROT13. Con [Cyberchef](https://cyberchef.org), se puede utilizar la opcion `ROT13 Brute Force`, siendo el Amount 23 la flag.
 
 ![Cyberchef](images/a.png)
